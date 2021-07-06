@@ -17,6 +17,16 @@ section{
 
    
 }
+
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin: 15px ;
+    border-radius: 25px;
+    text-align:center;
+    padding:15px;
+    border: 15%;
+    padding-right: 3%;
+}
 .first img{
     width: 64%;
     padding-left: 10%;
@@ -49,4 +59,35 @@ section{
         
         width:50%;
         padding-top: 110px;
+    }
+    .middle{
+        text-align: center;
+        padding-left: 290px;
+    }
+    #youtube{
+padding-left:40% ;
+    }
+    #instragram{
+        padding-left:30% ;
+    }
+    .fotter{
+        background-color: rgb(189, 233, 235);
+        box-shadow: none;
+        text-align: center;
+        margin-top: 4%;
+        
+    }
+    .my-edit{
+        
+        
+        background-image: url(images/shapes/Group\ 8450.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+
+    .dream{
+        background-image: url(images/dream-bg.png);
+        background-position: right;
+        background-repeat: no-repeat;
+
     }
