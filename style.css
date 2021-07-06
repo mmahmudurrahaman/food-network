@@ -19,8 +19,8 @@ section{
 }
 
 .shadow{
-    box-shadow: 10px 10px 40px gray;
-    margin: 15px ;
+    box-shadow: 20px 20px 40px gray;
+    margin: 10px 50px 15px ;
     border-radius: 25px;
     text-align:center;
     padding:15px;
